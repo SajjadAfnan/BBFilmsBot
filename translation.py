@@ -190,7 +190,7 @@ Total Episodes: 27
                               👇👇👇👇👇"""
 
 
-ALPARSLAN1 = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı
+BARBAROSLAR1 = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı
 (Barbaros: Sword of the Mediterranean)
 With English subtitle ✅
 Season: 1
