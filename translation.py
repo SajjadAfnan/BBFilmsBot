@@ -10,7 +10,7 @@ START_LOG = """🟢 <b>{mention} ({username})
 #id{id}  [<code>{id}</code>]</b>"""
 
 
-UYANIS = """<b>[EE] Uyanış: Büyük Selçuklu
+UYANIS = """<b>[BB] Uyanış: Büyük Selçuklu
 With English subtitle ✅
 Total Episodes: 34
 
@@ -29,7 +29,7 @@ Total Episodes: 34
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
-ERTUGRUL720 = """<b>[EE] Diriliş Ertuğrul
+ERTUGRUL720 = """<b>[BB] Diriliş Ertuğrul
 With English subtitle ✅
 In 720p HD Quality ⭐️</b>
 
@@ -46,7 +46,7 @@ In 720p HD Quality ⭐️</b>
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
-ERTUGRUL360 = """<b>[EE] Diriliş Ertuğrul
+ERTUGRUL360 = """<b>[BB] Diriliş Ertuğrul
 With English subtitle ✅
 In 360p SD Quality ⭐️</b>
 
@@ -63,9 +63,9 @@ In 360p SD Quality ⭐️</b>
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
-KUTUL_AMARE = """<b>[EE] Mehmetçik Kut'ül Amare
+KUTUL_AMARE = """<b>[BB] Mehmetçik Kut'ül Amare
 Season 1 | Episode 01-19
-[EE] Mehmetçik Kut'ül Zafer
+[BB] Mehmetçik Kut'ül Zafer
 
 Season 2 | Episode 20-34
 With English Subtitle ✅
@@ -81,7 +81,7 @@ Quality: 360p ✅</b>
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
-PAYITAHT = """<b>[EE] Payitaht Abdülhamid
+PAYITAHT = """<b>[BB] Payitaht Abdülhamid
 English Subtitle
 Total No. of Season: 5
 Total No. of Episodes: 154
@@ -89,39 +89,39 @@ Select the Season Below 👇</b>"""
 
 PAYITAHT1 = """<b>Step - 𝟏 »»» Click On Any Episode
 Step - 𝟐 »»» Press 𝗦𝘁𝗮𝗿𝘁 𝗕𝘂𝘁𝘁𝗼𝗻
-[EE] Payitaht Abdülhamid
+[BB] Payitaht Abdülhamid
 Season 𝟏 ✅
 English subtitle</b>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIyMTY3ODcyMTU2NDM0MzItMjIzMzgwODYxNzAyODIyOA'><b>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTIyMTY3ODcyMTU2NDM0MzItMjIzMzgwODYxNzAyODIyOA'>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIzMzk5NDIwNjA5NTY5NTYtMjM1Njk2MzQ2MjM0MTc1Mg'><b>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTIzMzk5NDIwNjA5NTY5NTYtMjM1Njk2MzQ2MjM0MTc1Mg'>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
 PAYITAHT2 = """<b>Step - 𝟏 »»» Click On Any Episode
 Step - 𝟐 »»» Press 𝗦𝘁𝗮𝗿𝘁 𝗕𝘂𝘁𝘁𝗼𝗻
-[EE] Payitaht Abdülhamid
+[BB] Payitaht Abdülhamid
 Season 𝟐 ✅
-English subtitle</b>
+English subtitle
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIyMzQ4MDk4NzU5MzMyMTYtMjI3MTg1NjQ1NTQxNzc3Mg'><b>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTIyMzQ4MDk4NzU5MzMyMTYtMjI3MTg1NjQ1NTQxNzc3Mg'>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIzNTc5NjQ3MjEyNDY3NDAtMjM5NjAxMjU1OTYzNjI4NA'><b>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTIzNTc5NjQ3MjEyNDY3NDAtMjM5NjAxMjU1OTYzNjI4NA'>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
 PAYITAHT3 = """<b>Step - 𝟏 »»» Click On Any Episode
 Step - 𝟐 »»» Press 𝗦𝘁𝗮𝗿𝘁 𝗕𝘂𝘁𝘁𝗼𝗻
-[EE] Payitaht Abdülhamid
+[BB] Payitaht Abdülhamid
 Season 𝟑 ✅
-English subtitle</b>
+English subtitle
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIyNzI4NTc3MTQzMjI3NjAtMjMwNjkwMDUxNzA5MjM1Mg'><b>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTIyNzI4NTc3MTQzMjI3NjAtMjMwNjkwMDUxNzA5MjM1Mg'>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIzOTcwMTM4MTg1NDEyNzItMjQzMzA1OTEzOTEyMDg0MA'><b>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTIzOTcwMTM4MTg1NDEyNzItMjQzMzA1OTEzOTEyMDg0MA'>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
@@ -129,13 +129,13 @@ English subtitle</b>
 
 PAYITAHT4 = """<b>Step - 𝟏 »»» Click On Any Episode
 Step - 𝟐 »»» Press 𝗦𝘁𝗮𝗿𝘁 𝗕𝘂𝘁𝘁𝗼𝗻
-[EE] Payitaht Abdülhamid
+[BB] Payitaht Abdülhamid
 Season 𝟒 ✅
-English subtitle</b>
+English subtitle
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIzMDc5MDE3NzU5OTczNDAtMjMzODk0MDgwMjA1MTk2OA'><b>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTIzMDc5MDE3NzU5OTczNDAtMjMzODk0MDgwMjA1MTk2OA'>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTI0MzQwNjAzOTgwMjU4MjgtMjQ3MzEwOTQ5NTMyMDM2MA'><b>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTI0MzQwNjAzOTgwMjU4MjgtMjQ3MzEwOTQ5NTMyMDM2MA'>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
@@ -143,17 +143,17 @@ English subtitle</b>
 
 PAYITAHT5 = """<b>Step - 𝟏 »»» Click On Any Episode
 Step - 𝟐 »»» Press 𝗦𝘁𝗮𝗿𝘁 𝗕𝘂𝘁𝘁𝗼𝗻
-[EE] Payitaht Abdülhamid
+[BB] Payitaht Abdülhamid
 Season 𝟓 ✅
-English subtitle</b>
+English subtitle
 
-<a href='https://t.me/{botusername}?start=Z2V0LTk5MjI0NzU3NDg0MzEwOC0xMTkxNDk4MDk2OTM1NzIw'><b>🌟 𝗦𝗲𝗮𝘀𝗼𝗻 𝟱 🌟</b></a>
+<a href='https://t.me/{botusername}?start=Z2V0LTk5MjI0NzU3NDg0MzEwOC0xMTkxNDk4MDk2OTM1NzIw'>🌟 𝗦𝗲𝗮𝘀𝗼𝗻 𝟱 🌟</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
 
-ALPARSLAN1 = """<b>[EE] Alparslan: Büyük Selçuklu
+ALPARSLAN1 = """<b>[BB] Alparslan: Büyük Selçuklu
 With English subtitle ✅
 Season: 1
 Total Episodes: 27
@@ -190,11 +190,12 @@ Total Episodes: 27
                               👇👇👇👇👇"""
 
 
-ALPARSLAN1 = """<b>[EE] Barbaroslar: Akdeniz'in Kılıcı
+ALPARSLAN1 = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı
 (Barbaros: Sword of the Mediterranean)
 With English subtitle ✅
 Season: 1
 Total Episodes: 32
+
 <a href='https://t.me/{botusername}?start=Z2V0LTE3ODIyNDA4NTA4Nzg2NC0xODMyMzAzNzk2MTI4MDQ'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTE5MDIzOTE5MTk0NzcyMC0xOTUyNDU0ODY0NzI2NjA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a> 
  
 <a href='https://t.me/{botusername}?start=Z2V0LTEyMTc1MzA4Mjg0NjU0MDgtMTIyNzU0MzQxNzUxNTI4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTEzMTk2NTkyMzY3NzQxODQtMTMyOTY3MTgyNTgyNDA2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a> 
