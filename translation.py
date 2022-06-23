@@ -10,6 +10,24 @@ START_LOG = """🟢 <b>{mention} ({username})
 #id{id}  [<code>{id}</code>]</b>"""
 
 
+YUNUS_EMRE = """<b>[BB] Yunus Emre
+English Subtitle
+All Qualities Available ✅
+Select the Season Below 👇</b>"""
+
+
+YUNUS_EMRE1 = """<b>[BB] Alparslan: Büyük Selçuklu
+English Subtitle
+All Qualities Available ✅
+Select the Season Below 👇</b>"""
+
+
+YUNUS_EMRE2 = """<b>[BB] Alparslan: Büyük Selçuklu
+English Subtitle
+All Qualities Available ✅
+Select the Season Below 👇</b>"""
+
+
 ALPARSLAN = """<b>[BB] Alparslan: Büyük Selçuklu
 English Subtitle
 All Qualities Available ✅
