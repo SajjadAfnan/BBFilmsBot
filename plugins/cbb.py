@@ -187,7 +187,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     elif data == "alparslan2":
         await query.message.reply_video(
             video = demovideo,
-            caption = ALPARSLAN1.format(botusername = client.username),
+            caption = ALPARSLAN2.format(botusername = client.username),
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
@@ -241,7 +241,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     elif data == "barbaroslar2":
         await query.message.reply_video(
             video = demovideo,
-            caption = BARBAROSLAR1.format(botusername = client.username),
+            caption = BARBAROSLAR2.format(botusername = client.username),
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
