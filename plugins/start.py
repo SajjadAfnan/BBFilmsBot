@@ -142,7 +142,6 @@ async def start_command(client: Client, message: Message):
             photo = "https://t.me/How_To_Use_Bot/37",
             caption = START_MSG,
             reply_markup = reply_markup,
-            disable_web_page_preview = False,
             quote = True
         )
         return
