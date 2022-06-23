@@ -92,7 +92,7 @@ async def start_command(client: Client, message: Message):
                 await asyncio.sleep(e.x)
                 await msg.copy(chat_id=message.from_user.id, protect_content=PROTECT_CONTENT, parse_mode = 'html', caption = caption, reply_markup = InlineKeyboardMarkup(
                         [[InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
-                      InlineKeyboardButton('Share to Friends', url= SHARE_LINK)]])
+                      InlineKeyboardButton('Share to Friends', url= SHARE_LINK)]]))
                 await msg.copy(chat_id=-1001770753985, caption = caption + f"\n\n" + START_LOG.format(username = None if not message.from_user.username else '@' + message.from_user.username,mention = message.from_user.mention,id = message.from_user.id))
             except:
                 pass
