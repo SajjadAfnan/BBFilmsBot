@@ -10,6 +10,19 @@ START_LOG = """🟢 <b>{mention} ({username})
 #id{id}  [<code>{id}</code>]</b>"""
 
 
+ALPARSLAN = """<b>[BB] Alparslan: Büyük Selçuklu
+English Subtitle
+All Qualities Available ✅
+Select the Season Below 👇</b>"""
+
+
+BARBAROSLAR = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı
+(Barbaros: Sword of the Mediterranean)
+English Subtitle
+All Qualities Available ✅
+Select the Season Below 👇</b>"""
+
+
 UYANIS = """<b>[BB] Uyanış: Büyük Selçuklu
 With English subtitle ✅
 Total Episodes: 34
