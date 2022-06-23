@@ -185,8 +185,8 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             pass
         
     elif data == "alparslan2":
-        await query.message.reply_video(
-            video = demovideo,
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/46",
             caption = ALPARSLAN2.format(botusername = client.username),
             reply_markup = InlineKeyboardMarkup(
                 [
@@ -239,8 +239,8 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             pass
         
     elif data == "barbaroslar2":
-        await query.message.reply_video(
-            video = demovideo,
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/47",
             caption = BARBAROSLAR2.format(botusername = client.username),
             reply_markup = InlineKeyboardMarkup(
                 [
