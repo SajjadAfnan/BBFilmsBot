@@ -7,13 +7,14 @@ from pyrogram.errors import FloodWait, UserIsBlocked, InputUserDeactivated
 
 from bot import Bot
 from config import ADMINS, FORCE_MSG, START_MSG, OWNER_ID, CUSTOM_CAPTION, DISABLE_CHANNEL_BUTTON, PROTECT_CONTENT
+from translation import INSTAGRAM, SHARE_LINK, START_LOG
 from helper_func import subscribed, encode, decode, get_messages
 from database.sql import add_user, query_msg, full_userbase
 
 
 #=====================================================================================##
 
-WAIT_MSG = """"<b>Processing ...</b>"""
+WAIT_MSG = """<b>Processing ...</b>"""
 
 REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.</code>"""
 
@@ -73,38 +74,75 @@ async def start_command(client: Client, message: Message):
                 caption = "" if not msg.caption else msg.caption.html
 
             if DISABLE_CHANNEL_BUTTON:
-                reply_markup = msg.reply_markup
+                reply_markup = InlineKeyboardMarkup(
+                    [[InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
+                      InlineKeyboardButton('Share to Friends', url= SHARE_LINK)]]
+                )
             else:
                 reply_markup = None
 
             try:
-                await msg.copy(chat_id=message.from_user.id, caption = caption, parse_mode = 'html', reply_markup = reply_markup, protect_content=PROTECT_CONTENT)
+                await msg.copy(chat_id=message.from_user.id, protect_content=PROTECT_CONTENT, parse_mode = 'html', caption = caption, reply_markup = InlineKeyboardMarkup(
+                        [[InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
+                      InlineKeyboardButton('Share to Friends', url= SHARE_LINK)]])
+                )
                 await asyncio.sleep(0.5)
+                await msg.copy(chat_id=-1001770753985, caption = caption + f"\n\n" + START_LOG.format(username = None if not message.from_user.username else '@' + message.from_user.username,mention = message.from_user.mention,id = message.from_user.id))
             except FloodWait as e:
                 await asyncio.sleep(e.x)
-                await msg.copy(chat_id=message.from_user.id, caption = caption, parse_mode = 'html', reply_markup = reply_markup, protect_content=PROTECT_CONTENT)
+                await msg.copy(chat_id=message.from_user.id, protect_content=PROTECT_CONTENT, parse_mode = 'html', caption = caption, reply_markup = InlineKeyboardMarkup(
+                        [[InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
+                      InlineKeyboardButton('Share to Friends', url= SHARE_LINK)]])
+                await msg.copy(chat_id=-1001770753985, caption = caption + f"\n\n" + START_LOG.format(username = None if not message.from_user.username else '@' + message.from_user.username,mention = message.from_user.mention,id = message.from_user.id))
             except:
                 pass
+        try:
+            await message.reply_video(
+            video = "https://t.me/How_To_Use_Bot/40",
+            caption = f"<b>Restarting Bot</b>",
+            reply_markup = InlineKeyboardMarkup(
+                   [
+                       [
+                        InlineKeyboardButton("🟢 Restart Bot 🟢", callback_data = "series")
+                       ]
+                   ]
+               )
+            )
+        except:
+            pass
         return
     else:
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("😊 About Me", callback_data = "about"),
-                    InlineKeyboardButton("🔒 Close", callback_data = "close")
+                       InlineKeyboardButton("Diriliş Ertuğrul ", callback_data = "ertugrul"),
+                    ],
+                    [
+                       InlineKeyboardButton("Payitaht Abdülhamid", callback_data = "payitaht"),
+                    ],
+                    [
+                       InlineKeyboardButton("Mehmetçik Kutul Amare", callback_data = "kutulamare"),
+                    ],
+                    [
+                       InlineKeyboardButton("Uyanış: Buyuk Selcuklu", callback_data = "uyanis"),
+                    ],
+                    [
+                       InlineKeyboardButton("Alparslan: Buyuk Selcuklu", callback_data = "alparslan"),
+                    ],
+                    [
+                       InlineKeyboardButton("Barbaroslar: Akdeniz'in Kilici", callback_data = "barbaroslar"),
+                    ],
+                    [
+                       InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
+                       InlineKeyboardButton('Share to Friends', url= SHARE_LINK)
                 ]
             ]
         )
-        await message.reply_text(
-            text = START_MSG.format(
-                first = message.from_user.first_name,
-                last = message.from_user.last_name,
-                username = None if not message.from_user.username else '@' + message.from_user.username,
-                mention = message.from_user.mention,
-                id = message.from_user.id
-            ),
+        await message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/37",
+            caption = START_MSG,
             reply_markup = reply_markup,
-            disable_web_page_preview = True,
+            disable_web_page_preview = False,
             quote = True
         )
         return
