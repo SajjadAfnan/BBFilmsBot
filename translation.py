@@ -250,11 +250,6 @@ UYANIS = """<b>[BB] Uyanış: Büyük Selçuklu
 With English subtitle ✅
 Total Episodes: 34
 
-<b>[BB] Alparslan: Büyük Selçuklu   
-With English subtitle ✅   
-Season: 1   
-Total Episodes: 34
-
 <a href='https://t.me/{botusername}?start=Z2V0LTUyNTY2MDkyNTExODcwMDAtNTI2MDYxNDI4NjgwNjk1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTUyNjI2MTY4MDQ2MTY5MjgtNTI2NjYyMTg0MDIzNjg4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a>    
     
 <a href='https://t.me/{botusername}?start=Z2V0LTUyNjg2MjQzNTgwNDY4NTYtNTI3MzYzMDY1MjU3MTc5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTUyODE2NDA3MjM4MTE3MDAtNTI4NjY0NzAxODMzNjY0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a>    
@@ -289,8 +284,7 @@ Total Episodes: 34
     
 <a href='https://t.me/{botusername}?start=Z2V0LTUwNzAzNzUwOTQ4NTkyMzItNTA3MzM3ODg3MTU3NDE5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTU0ODQ4OTYyODE1MjQyNjQtNTQ4ODkwMTMxNzE0NDIxNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a>  
-  
-  
+<a href='https://t.me/{botusername}?start=Z2V0LTU0ODQ4OTYyODE1MjQyNjQtNTQ4ODkwMTMxNzE0NDIxNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑   
                               👇👇👇👇👇"""
