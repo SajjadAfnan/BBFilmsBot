@@ -79,10 +79,10 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton('⚓ Season 1 ⚓', callback_data = "alparslan1"),
+                        InlineKeyboardButton('⚓ Season 1 ⚓', callback_data = "barbaroslar1"),
                     ],
                     [
-                        InlineKeyboardButton("⚓ Season 2 ⚓", callback_data = "alparslan2"),
+                        InlineKeyboardButton("⚓ Season 2 ⚓", callback_data = "barbaroslar2"),
                     ],
                     [
                         InlineKeyboardButton("⏪ Back", callback_data = "series"),
