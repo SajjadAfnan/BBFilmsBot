@@ -17,25 +17,23 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                       InlineKeyboardButton("Yunus Emre", callback_data = "yunusemre"),
+                       InlineKeyboardButton("1️⃣ Yunus Emre", callback_data = "yunusemre"),
+                       InlineKeyboardButton("2️⃣ Diriliş Ertuğrul", callback_data = "ertugrul"),
                     ],
                     [
-                       InlineKeyboardButton("Diriliş Ertuğrul", callback_data = "ertugrul"),
+                       InlineKeyboardButton("3️⃣ Payitaht Abdülhamid", callback_data = "payitaht"),
                     ],
                     [
-                       InlineKeyboardButton("Payitaht Abdülhamid", callback_data = "payitaht"),
+                       InlineKeyboardButton("4️⃣ Mehmetçik Kutul Amare", callback_data = "kutulamare"),
                     ],
                     [
-                       InlineKeyboardButton("Mehmetçik Kutul Amare", callback_data = "kutulamare"),
+                       InlineKeyboardButton("5️⃣ Uyanış: Buyuk Selcuklu", callback_data = "uyanis"),
                     ],
                     [
-                       InlineKeyboardButton("Uyanış: Buyuk Selcuklu", callback_data = "uyanis"),
+                       InlineKeyboardButton("6️⃣ Alparslan: Buyuk Selcuklu", callback_data = "alparslan"),
                     ],
                     [
-                       InlineKeyboardButton("Alparslan: Buyuk Selcuklu", callback_data = "alparslan"),
-                    ],
-                    [
-                       InlineKeyboardButton("Barbaroslar: Akdeniz'in Kilici", callback_data = "barbaroslar"),
+                       InlineKeyboardButton("7️⃣ Barbaroslar: Akdeniz'in Kilici", callback_data = "barbaroslar"),
                     ],
                     [
                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
