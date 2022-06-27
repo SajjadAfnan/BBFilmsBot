@@ -16,16 +16,26 @@ All Qualities Available ✅
 Select the Season Below 👇</b>"""
 
 
-YUNUS_EMRE1 = """<b>[BB] Alparslan: Büyük Selçuklu
+YUNUS_EMRE1 = """<b>[BB] Yunus Emre
+
+Season: 1
+Episodes: 22
+
 English Subtitle
 All Qualities Available ✅
-Select the Season Below 👇</b>"""
+
+Coming Soon...</b>"""
 
 
-YUNUS_EMRE2 = """<b>[BB] Alparslan: Büyük Selçuklu
+YUNUS_EMRE2 = """<b>[BB] Yunus Emre
+
+Season 2
+Episodes: 23
+
 English Subtitle
 All Qualities Available ✅
-Select the Season Below 👇</b>"""
+
+Coming Soon...</b>"""
 
 
 ALPARSLAN = """<b>[BB] Alparslan: Büyük Selçuklu
