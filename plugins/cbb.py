@@ -3,7 +3,7 @@
 from pyrogram import __version__
 from bot import Bot
 from config import OWNER_ID, START_MSG, BARBAROSLAR2, ALPARSLAN2, START_MSG
-from translation import INSTAGRAM, SHARE_LINK, UYANIS, ERTUGRUL720, ERTUGRUL360, KUTUL_AMARE, PAYITAHT, PAYITAHT1, PAYITAHT2, PAYITAHT3, PAYITAHT4, PAYITAHT5, PAYITAHT, ALPARSLAN, BARBAROSLAR, BARBAROSLAR1, ALPARSLAN1
+from translation import INSTAGRAM, SHARE_LINK, UYANIS, ERTUGRUL720, ERTUGRUL360, KUTUL_AMARE, PAYITAHT, PAYITAHT1, PAYITAHT2, PAYITAHT3, PAYITAHT4, PAYITAHT5, PAYITAHT, ALPARSLAN, BARBAROSLAR, BARBAROSLAR1, ALPARSLAN1, YUNUS_EMRE, YUNUS_EMRE1, YUNUS_EMRE2
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
 @Bot.on_callback_query()
@@ -17,7 +17,10 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                       InlineKeyboardButton("Diriliş Ertuğrul ", callback_data = "ertugrul"),
+                       InlineKeyboardButton("Yunus Emre", callback_data = "yunusemre"),
+                    ],
+                    [
+                       InlineKeyboardButton("Diriliş Ertuğrul", callback_data = "ertugrul"),
                     ],
                     [
                        InlineKeyboardButton("Payitaht Abdülhamid", callback_data = "payitaht"),
@@ -95,6 +98,30 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         except:
             pass
 
+    elif data == "yunusemre":
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/48",
+            caption = YUNUS_EMRE,
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton('🕌 Season 1 🕌', callback_data = "yunusemre1"),
+                    ],
+                    [
+                        InlineKeyboardButton("🕌 Season 2 🕌", callback_data = "yunusemre2"),
+                    ],
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "series"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
     elif data == "ertugrul":
         await query.message.reply_photo(
             photo = "https://t.me/How_To_Use_Bot/15",
@@ -156,6 +183,42 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("⏪ Back", callback_data = "series"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "yunusemre1":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = YUNUS_EMRE1.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "yunusemre"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "yunusemre2":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = YUNUS_EMRE2.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "yunusemre"),
                         InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
                     ]
                 ]
