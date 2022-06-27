@@ -39,15 +39,19 @@ Coming Soon...</b>"""
 
 
 ALPARSLAN = """<b>[BB] Alparslan: Büyük Selçuklu
+
 English Subtitle
 All Qualities Available ✅
+
 Select the Season Below 👇</b>"""
 
 
-BARBAROSLAR = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı
-(Barbaros: Sword of the Mediterranean)
-English Subtitle
+BARBAROSLAR = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı</b>
+<i>(Barbaros: Sword of the Mediterranean)</i>
+
+<b>With English subtitle ✅
 All Qualities Available ✅
+
 Select the Season Below 👇</b>"""
 
 
@@ -177,6 +181,7 @@ English subtitle
 
 ALPARSLAN1 = """<b>[BB] Alparslan: Büyük Selçuklu
 With English subtitle ✅
+
 Season: 1
 Total Episodes: 27
 
@@ -212,9 +217,10 @@ Total Episodes: 27
                               👇👇👇👇👇"""
 
 
-BARBAROSLAR1 = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı
-(Barbaros: Sword of the Mediterranean)
-With English subtitle ✅
+BARBAROSLAR1 = """<b>[BB] Barbaroslar: Akdeniz'in Kılıcı</b>
+<i>(Barbaros: Sword of the Mediterranean)</i>
+<b>With English subtitle ✅
+
 Season: 1
 Total Episodes: 32
 
