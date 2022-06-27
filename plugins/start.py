@@ -114,8 +114,11 @@ async def start_command(client: Client, message: Message):
     else:
         reply_markup = InlineKeyboardMarkup(
             [
-                [
-                       InlineKeyboardButton("Diriliş Ertuğrul ", callback_data = "ertugrul"),
+                    [
+                       InlineKeyboardButton("Yunus Emre", callback_data = "yunusemre"),
+                    ],
+                    [
+                       InlineKeyboardButton("Diriliş Ertuğrul", callback_data = "ertugrul"),
                     ],
                     [
                        InlineKeyboardButton("Payitaht Abdülhamid", callback_data = "payitaht"),
@@ -135,7 +138,7 @@ async def start_command(client: Client, message: Message):
                     [
                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
                        InlineKeyboardButton('Share to Friends', url= SHARE_LINK)
-                ]
+                    ]
             ]
         )
         await message.reply_photo(
