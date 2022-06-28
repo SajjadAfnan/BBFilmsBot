@@ -115,15 +115,30 @@ Total No. of Season: 5
 Total No. of Episodes: 154
 Select the Season Below 👇</b>"""
 
-PAYITAHT1 = """<b>Step - 𝟏 »»» Click On Any Episode
-Step - 𝟐 »»» Press 𝗦𝘁𝗮𝗿𝘁 𝗕𝘂𝘁𝘁𝗼𝗻
-[BB] Payitaht Abdülhamid
-Season 𝟏 ✅
-English subtitle</b>
+PAYITAHT1 = """<b>[BB] Payitaht Abdülhamid 
+With English subtitle ✅
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIyMTY3ODcyMTU2NDM0MzItMjIzMzgwODYxNzAyODIyOA'>🌟 𝟯𝟲𝟬𝗽 𝗦𝗗 🌟</a>
+Season: 1
+Total Episodes: 17
 
-<a href='https://t.me/{botusername}?start=Z2V0LTIzMzk5NDIwNjA5NTY5NTYtMjM1Njk2MzQ2MjM0MTc1Mg'>🌟 𝟳𝟮𝟬𝗽 𝗛𝗗 🌟</a></b>
+<a href='https://t.me/{botusername}?start=Z2V0LTU1MTQ5MzQwNDg2NzM5MDQtNTUxNTkzNTMwNzU3ODg5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTU1MTc5Mzc4MjUzODg4NjgtNTUxODkzOTA4NDI5Mzg1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1MjA5NDE2MDIxMDM4MzItNTUyMTk0Mjg2MTAwODgyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTU1MjM5NDUzNzg4MTg3OTYtNTUyNDk0NjYzNzcyMzc4NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1MjY5NDkxNTU1MzM3NjAtNTUyNzk1MDQxNDQzODc0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓</a>        <a href='https://t.me/{botusername}?start=Z2V0LTU1Mjk5NTI5MzIyNDg3MjQtNTUzMDk1NDE5MTE1MzcxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1MzI5NTY3MDg5NjM2ODgtNTUzMzk1Nzk2Nzg2ODY3Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕</a>        <a href='https://t.me/{botusername}?start=Z2V0LTU1MzU5NjA0ODU2Nzg2NTItNTUzNjk2MTc0NDU4MzY0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1NDA5NjY3ODAyMDM1OTItNTU0MTk2ODAzOTEwODU4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗</a>        <a href='https://t.me/{botusername}?start=Z2V0LTU1NDM5NzA1NTY5MTg1NTYtNTU0NDk3MTgxNTgyMzU0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1NDY5NzQzMzM2MzM1MjAtNTU0Nzk3NTU5MjUzODUwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTU1NDk5NzgxMTAzNDg0ODQtNTU1MDk3OTM2OTI1MzQ3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟐</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1NTI5ODE4ODcwNjM0NDgtNTU1Mzk4MzE0NTk2ODQzNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTU1NTU5ODU2NjM3Nzg0MTItNTU1Njk4NjkyMjY4MzQwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟒</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1NTg5ODk0NDA0OTMzNzYtNTU1OTk5MDY5OTM5ODM2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTU1NjE5OTMyMTcyMDgzNDAtNTU2Mjk5NDQ3NjExMzMyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟔</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU1NjQ5OTY5OTM5MjMzMDQtNTU2NTk5ODI1MjgyODI5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟕 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
@@ -170,7 +185,7 @@ Total Episodes: 37
  
 <a href='https://t.me/{botusername}?start=Z2V0LTU2NzAxMjkxNzg5NDcwNDQtNTY3MTEzMDQzNzg1MjAzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTU2NzMxMzI5NTU2NjIwMDgtNTY3NDEzNDIxNDU2Njk5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟔</a> 
  
-<a href='https://t.me/{botusername}?start=Z2V0LTU2NzYxMzY3MzIzNzY5NzItNTY3NzEzNzk5MTI4MTk2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟕</a></b>
+<a href='https://t.me/{botusername}?start=Z2V0LTU2NzYxMzY3MzIzNzY5NzItNTY3NzEzNzk5MTI4MTk2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟕 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
@@ -213,7 +228,9 @@ Total Episodes: 34
 
 <a href='https://t.me/{botusername}?start=Z2V0LTU3NzAyNTUwNjk0NDU4NDQtNTc3MTI1NjMyODM1MDgzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTU3NzMyNTg4NDYxNjA4MDgtNTc3NDI2MDEwNTA2NTc5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟐</a> 
  
-<a href='https://t.me/{botusername}?start=Z2V0LTU3NzYyNjI2MjI4NzU3NzItNTc3NzI2Mzg4MTc4MDc2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTU3NzkyNjYzOTk1OTA3MzYtNTc4MDI2NzY1ODQ5NTcyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒</a></b>
+<a href='https://t.me/{botusername}?start=Z2V0LTU3NzYyNjI2MjI4NzU3NzItNTc3NzI2Mzg4MTc4MDc2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTU3NzkyNjYzOTk1OTA3MzYtNTc4MDI2NzY1ODQ5NTcyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
@@ -255,7 +272,7 @@ Total Episodes: 31
  
 <a href='https://t.me/{botusername}?start=Z2V0LTU4NzAzODA5NTk5NDQ2NDQtNTg3MTM4MjIxODg0OTYzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTU4NzMzODQ3MzY2NTk2MDgtNTg3NDM4NTk5NTU2NDU5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟎</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTU4NzYzODg1MTMzNzQ1NzItNTg3NzM4OTc3MjI3OTU2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏</a></b>
+<a href='https://t.me/{botusername}?start=Z2V0LTU4NzYzODg1MTMzNzQ1NzItNTg3NzM4OTc3MjI3OTU2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
@@ -301,7 +318,7 @@ Total Episodes: 35
  
 <a href='https://t.me/{botusername}?start=Z2V0LTExNzg0ODE3MzExNzA4NzYtMTE4MTQ4NTUwNzg4NTg0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTExODM0ODgwMjU2OTU4MTYtMTE4NjQ5MTgwMjQxMDc4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒</a> 
  
-<a href='https://t.me/{botusername}?start=Z2V0LTExODg0OTQzMjAyMjA3NTYtMTE5MDQ5NjgzODAzMDczMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟓</a></b>
+<a href='https://t.me/{botusername}?start=Z2V0LTExODg0OTQzMjAyMjA3NTYtMTE5MDQ5NjgzODAzMDczMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟓 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
