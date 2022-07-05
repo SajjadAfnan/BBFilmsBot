@@ -24,10 +24,10 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                        InlineKeyboardButton("𝟑. Payitaht Abdülhamid", callback_data = "payitaht"),
                     ],
                     [
-                       InlineKeyboardButton("𝟓. Uyanış: Buyuk Selcuklu", callback_data = "uyanis"),
+                       InlineKeyboardButton("𝟒. Uyanış: Buyuk Selcuklu", callback_data = "uyanis"),
                     ],
                     [
-                       InlineKeyboardButton("𝟒. Mehmetçik Kutul Amare", callback_data = "kutulamare"),
+                       InlineKeyboardButton("𝟓. Mehmetçik Kutul Amare", callback_data = "kutulamare"),
                     ],
                     [
                        InlineKeyboardButton("𝟔. Alparslan: Buyuk Selcuklu", callback_data = "alparslan"),
