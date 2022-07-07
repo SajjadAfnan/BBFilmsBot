@@ -157,8 +157,10 @@ Quality: 360p ✅</b>
 
 PAYITAHT = """<b>[BB] Payitaht Abdülhamid
 English Subtitle
+
 Total No. of Season: 5
 Total No. of Episodes: 154
+
 Select the Season Below 👇</b>"""
 
 PAYITAHT1 = """<b>[BB] Payitaht Abdülhamid 
