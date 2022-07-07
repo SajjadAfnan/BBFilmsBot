@@ -493,7 +493,7 @@ Total Episodes: 34
     
 <a href='https://t.me/{botusername}?start=Z2V0LTUwNzAzNzUwOTQ4NTkyMzItNTA3MzM3ODg3MTU3NDE5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTU0ODQ4OTYyODE1MjQyNjQtNTQ4ODkwMTMxNzE0NDIxNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+<a href='https://t.me/{botusername}?start=Z2V0LTU0OTA5MDM4MzQ5NTQxOTItNTQ5NTkxMDEyOTQ3OTEzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑   
                               👇👇👇👇👇"""
