@@ -46,7 +46,9 @@ All Qualities Available ✅
  
 <a href='https://t.me/{botusername}?start=Z2V0LTYwMDY1NTIxNzEwMjMwMTItNjAwOTU1NTk0NzczNzk3Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYwMTE1NTg0NjU1NDc5NTItNjAxNDU2MjI0MjI2MjkxNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟎</a> 
  
-<a href='https://t.me/{botusername}?start=Z2V0LTYwMTY1NjQ3NjAwNzI4OTItNjAxOTU2ODUzNjc4Nzg1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYwMjE1NzEwNTQ1OTc4MzItNjAyNDU3NDgzMTMxMjc5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟐</a> </b>"""
+<a href='https://t.me/{botusername}?start=Z2V0LTYwMTY1NjQ3NjAwNzI4OTItNjAxOTU2ODUzNjc4Nzg1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTYwMjE1NzEwNTQ1OTc4MzItNjAyNDU3NDgzMTMxMjc5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟐 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>"""
 
 
 YUNUS_EMRE2 = """<b>[BB] Yunus Emre
@@ -57,7 +59,31 @@ Episodes: 23
 English Subtitle
 All Qualities Available ✅
 
-Coming Soon...</b>"""
+All Qualities Available ✅
+
+<a href='https://t.me/{botusername}?start=Z2V0LTYwMzU1ODg2NzkyNjc2NjQtNjAzODU5MjQ1NTk4MjYyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTYwNDA1OTQ5NzM3OTI2MDQtNjA0MzU5ODc1MDUwNzU2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYwNDU2MDEyNjgzMTc1NDQtNjA0ODYwNTA0NTAzMjUwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTYwNTA2MDc1NjI4NDI0ODQtNjA1MzYxMTMzOTU1NzQ0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYwNTU2MTM4NTczNjc0MjQtNjA1ODYxNzYzNDA4MjM4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓</a>        <a href='https://t.me/{botusername}?start=Z2V0LTYwNjA2MjAxNTE4OTIzNjQtNjA2MzYyMzkyODYwNzMyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYwNzA2MzI3NDA5NDIyNDQtNjA3MzYzNjUxNzY1NzIwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕</a>        <a href='https://t.me/{botusername}?start=Z2V0LTYwNzU2MzkwMzU0NjcxODQtNjA3ODY0MjgxMjE4MjE0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYwODA2NDUzMjk5OTIxMjQtNjA4MzY0OTEwNjcwNzA4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗</a>        <a href='https://t.me/{botusername}?start=Z2V0LTYwODU2NTE2MjQ1MTcwNjQtNjA4ODY1NTQwMTIzMjAyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎 </a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYwOTA2NTc5MTkwNDIwMDQtNjA5MzY2MTY5NTc1Njk2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYwOTU2NjQyMTM1NjY5NDQtNjA5ODY2Nzk5MDI4MTkwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYxMDA2NzA1MDgwOTE4ODQtNjEwMzY3NDI4NDgwNjg0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYxMDU2NzY4MDI2MTY4MjQtNjEwODY4MDU3OTMzMTc4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYxMTA2ODMwOTcxNDE3NjQtNjExMzY4Njg3Mzg1NjcyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYxMTU2ODkzOTE2NjY3MDQtNjExODY5MzE2ODM4MTY2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYxMjA2OTU2ODYxOTE2NDQtNjEyMzY5OTQ2MjkwNjYwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYxMjU3MDE5ODA3MTY1ODQtNjEyODcwNTc1NzQzMTU0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYxMzA3MDgyNzUyNDE1MjQtNjEzMzcxMjA1MTk1NjQ4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYxMzU3MTQ1Njk3NjY0NjQtNjEzODcxODM0NjQ4MTQyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟎</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTYxNDA3MjA4NjQyOTE0MDQtNjE0MzcyNDY0MTAwNjM2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTYxNDU3MjcxNTg4MTYzNDQtNjE1NTczOTc0Nzg2NjIyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟐 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>"""
 
 
 ALPARSLAN = """<b>[BB] Alparslan: Büyük Selçuklu
