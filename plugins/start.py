@@ -115,23 +115,27 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                     [
-                       InlineKeyboardButton("𝟏. Yunus Emre", callback_data = "yunusemre"),
+                       InlineKeyboardButton("𝟏. Destan", callback_data = "destan"),
                        InlineKeyboardButton("𝟐. Diriliş Ertuğrul", callback_data = "ertugrul"),
                     ],
                     [
-                       InlineKeyboardButton("𝟑. Payitaht Abdülhamid", callback_data = "payitaht"),
+                       InlineKeyboardButton("𝟑. Yunus Emre", callback_data = "yunusemre"),
+                       InlineKeyboardButton("𝟒. Kuruluş Osman", callback_data = "osman"),
                     ],
                     [
-                       InlineKeyboardButton("𝟒. Uyanış: Buyuk Selcuklu", callback_data = "uyanis"),
+                       InlineKeyboardButton("𝟓. Payitaht Abdülhamid", callback_data = "payitaht"),
                     ],
                     [
-                       InlineKeyboardButton("𝟓. Mehmetçik Kutul Amare", callback_data = "kutulamare"),
+                       InlineKeyboardButton("𝟔. Uyanış: Buyuk Selcuklu", callback_data = "uyanis"),
                     ],
                     [
-                       InlineKeyboardButton("𝟔. Alparslan: Buyuk Selcuklu", callback_data = "alparslan"),
+                       InlineKeyboardButton("𝟕. Mehmetçik Kutul Amare", callback_data = "kutulamare"),
                     ],
                     [
-                       InlineKeyboardButton("𝟕. Barbaroslar: Akdeniz'in Kilici", callback_data = "barbaroslar"),
+                       InlineKeyboardButton("𝟖. Alparslan: Buyuk Selcuklu", callback_data = "alparslan"),
+                    ],
+                    [
+                       InlineKeyboardButton("𝟗. Barbaroslar: Akdeniz'in Kilici", callback_data = "barbaroslar"),
                     ],
                     [
                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM),
