@@ -199,7 +199,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
     elif data == "osman":
         await query.message.reply_photo(
             photo = "https://t.me/How_To_Use_Bot/26",
-            caption = DESTAN,
+            caption = OSMAN,
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
