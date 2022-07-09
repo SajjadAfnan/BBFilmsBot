@@ -39,6 +39,19 @@ Total Episodes: 34
 
 Coming soon..."""
 
+DESTAN = """<b>[BB] Destan
+English Subtitle
+
+Select the Season Below 👇</b>"""
+
+DESTAN 1 = """<b>[BB] Destan
+English subtitle ✅
+
+Season: 1
+Total Episodes: 27
+
+Coming soon..."""
+
 YUNUS_EMRE = """<b>[BB] Yunus Emre
 
 English Subtitle
