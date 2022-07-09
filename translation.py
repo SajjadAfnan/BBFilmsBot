@@ -87,6 +87,7 @@ Total Episodes: 37
 <a href='https://t.me/{botusername}?start=Z2V0LTYzNjUwMDI4NTkwMDg3MTYtNjM2NzAwNTM3NjgxODY5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYzNjkwMDc4OTQ2Mjg2NjgtNjM3MTAxMDQxMjQzODY0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟖</a> 
  
 <a href='https://t.me/{botusername}?start=Z2V0LTYzNzMwMTI5MzAyNDg2MjAtNjM3NTAxNTQ0ODA1ODU5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYzNzcwMTc5NjU4Njg1NzItNjM3OTAyMDQ4MzY3ODU0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟎</a>
+
 <a href='https://t.me/{botusername}?start=Z2V0LTYzODEwMjMwMDE0ODg1MjQtNjM4MzAyNTUxOTI5ODUwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYzODUwMjgwMzcxMDg0NzYtNjM4NzAzMDU1NDkxODQ1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟐</a> 
  
 <a href='https://t.me/{botusername}?start=Z2V0LTYzODkwMzMwNzI3Mjg0MjgtNjM5MTAzNTU5MDUzODQwNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTYzOTMwMzgxMDgzNDgzODAtNjM5NTA0MDYyNjE1ODM1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒</a> 
@@ -94,6 +95,7 @@ Total Episodes: 37
 <a href='https://t.me/{botusername}?start=Z2V0LTYzOTcwNDMxNDM5NjgzMzItNjM5OTA0NTY2MTc3ODMwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY0MDEwNDgxNzk1ODgyODQtNjQwMzA1MDY5NzM5ODI2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟔</a> 
  
 <a href='https://t.me/{botusername}?start=Z2V0LTY0MDUwNTMyMTUyMDgyMzYtNjQwNzA1NTczMzAxODIxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟕 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
 
