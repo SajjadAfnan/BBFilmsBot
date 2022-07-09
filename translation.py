@@ -66,7 +66,44 @@ English subtitle ✅
 Season: 3
 Total Episodes: 34
 
-Coming soon...</b>"""
+<a href='https://t.me/{botusername}?start=Z2V0LTY0MDkwNTgyNTA4MjgxODgtNjQxMjA2MjAyNzU0MzE1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY0MTQwNjQ1NDUzNTMxMjgtNjQxNzA2ODMyMjA2ODA5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0MTkwNzA4Mzk4NzgwNjgtNjQyMjA3NDYxNjU5MzAzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY0MjQwNzcxMzQ0MDMwMDgtNjQyNzA4MDkxMTExNzk3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0MjkwODM0Mjg5Mjc5NDgtNjQzMjA4NzIwNTY0MjkxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY0MzQwODk3MjM0NTI4ODgtNjQzNzA5MzUwMDE2Nzg1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0MzkwOTYwMTc5Nzc4MjgtNjQ0MjA5OTc5NDY5Mjc5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY0NDQxMDIzMTI1MDI3NjgtNjQ0NzEwNjA4OTIxNzczMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0NDkxMDg2MDcwMjc3MDgtNjQ1MjExMjM4Mzc0MjY3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY0NTQxMTQ5MDE1NTI2NDgtNjQ1NzExODY3ODI2NzYxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎 </a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0NTkxMjExOTYwNzc1ODgtNjQ2MjEyNDk3Mjc5MjU1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY0NjQxMjc0OTA2MDI1MjgtNjQ2NzEzMTI2NzMxNzQ5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0NjkxMzM3ODUxMjc0NjgtNjQ3MjEzNzU2MTg0MjQzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY0NzQxNDAwNzk2NTI0MDgtNjQ3NzE0Mzg1NjM2NzM3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0NzkxNDYzNzQxNzczNDgtNjQ4MjE1MDE1MDg5MjMxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY0ODQxNTI2Njg3MDIyODgtNjQ4NzE1NjQ0NTQxNzI1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0ODkxNTg5NjMyMjcyMjgtNjQ5MjE2MjczOTk0MjE5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY0OTQxNjUyNTc3NTIxNjgtNjQ5NzE2OTAzNDQ2NzEzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY0OTkxNzE1NTIyNzcxMDgtNjUwMjE3NTMyODk5MjA3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY1MDQxNzc4NDY4MDIwNDgtNjUwNzE4MTYyMzUxNzAxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟎</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY1MDkxODQxNDEzMjY5ODgtNjUxMjE4NzkxODA0MTk1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY1MTQxOTA0MzU4NTE5MjgtNjUxNzE5NDIxMjU2Njg5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY1MTkxOTY3MzAzNzY4NjgtNjUyMjIwMDUwNzA5MTgzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY1MjQyMDMwMjQ5MDE4MDgtNjUyNzIwNjgwMTYxNjc3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY1MjkyMDkzMTk0MjY3NDgtNjUzMjIxMzA5NjE0MTcxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY1MzQyMTU2MTM5NTE2ODgtNjUzNzIxOTM5MDY2NjY1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY1MzkyMjE5MDg0NzY2MjgtNjU0MjIyNTY4NTE5MTU5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY1NDQyMjgyMDMwMDE1NjgtNjU0NzIzMTk3OTcxNjUzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY1NDkyMzQ0OTc1MjY1MDgtNjU1MjIzODI3NDI0MTQ3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY1NTQyNDA3OTIwNTE0NDgtNjU1NzI0NDU2ODc2NjQxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTY1NTkyNDcwODY1NzYzODgtNjU2MjI1MDg2MzI5MTM1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY1NjQyNTMzODExMDEzMjgtNjU2NzI1NzE1NzgxNjI5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY1NjkyNTk2NzU2MjYyNjgtNjU3MjI2MzQ1MjM0MTIzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTY1NzQyNjU5NzAxNTEyMDgtNjU3NzI2OTc0Njg2NjE3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+
+🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑   
+                              👇👇👇👇👇"""
 
 DESTAN = """<b>[BB] Destan
 English Subtitle
