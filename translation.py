@@ -21,7 +21,7 @@ English subtitle ✅
 Season: 1
 Total Episodes: 27
 
-Coming soon..."""
+Coming soon...</b>"""
 
 OSMAN2 = """<b>[BB] Kuruluş Osman
 English subtitle ✅
@@ -29,7 +29,7 @@ English subtitle ✅
 Season: 2
 Total Episodes: 37
 
-Coming soon..."""
+Coming soon...</b>"""
 
 OSMAN3 = """<b>[BB] Kuruluş Osman
 English subtitle ✅
@@ -37,7 +37,7 @@ English subtitle ✅
 Season: 3
 Total Episodes: 34
 
-Coming soon..."""
+Coming soon...</b>"""
 
 DESTAN = """<b>[BB] Destan
 English Subtitle
@@ -50,7 +50,7 @@ English subtitle ✅
 Season: 1
 Total Episodes: 27
 
-Coming soon..."""
+Coming soon...</b>"""
 
 YUNUS_EMRE = """<b>[BB] Yunus Emre
 
