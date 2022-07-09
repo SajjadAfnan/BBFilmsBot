@@ -10,6 +10,35 @@ START_LOG = """🟢 <b>{mention} ({username})
 #id{id}  [<code>{id}</code>]</b>"""
 
 
+OSMAN = """<b>[BB] Kurulus Osman
+English Subtitle
+
+Select the Season Below 👇</b>"""
+
+OSMAN1 = """<b>[BB] Kuruluş Osman
+English subtitle ✅
+
+Season: 1
+Total Episodes: 27
+
+Coming soon..."""
+
+OSMAN2 = """<b>[BB] Kuruluş Osman
+English subtitle ✅
+
+Season: 2
+Total Episodes: 37
+
+Coming soon..."""
+
+OSMAN3 = """<b>[BB] Kuruluş Osman
+English subtitle ✅
+
+Season: 3
+Total Episodes: 34
+
+Coming soon..."""
+
 YUNUS_EMRE = """<b>[BB] Yunus Emre
 
 English Subtitle
