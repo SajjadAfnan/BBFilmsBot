@@ -44,7 +44,7 @@ English Subtitle
 
 Select the Season Below 👇</b>"""
 
-DESTAN 1 = """<b>[BB] Destan
+DESTAN1 = """<b>[BB] Destan
 English subtitle ✅
 
 Season: 1
