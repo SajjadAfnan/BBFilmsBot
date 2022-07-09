@@ -207,7 +207,7 @@ async def cb_handler(client: Bot, query: CallbackQuery):
                         InlineKeyboardButton("🐺 Season 2 🐺", callback_data = "osman2"),
                     ],
                     [
-                        InlineKeyboardButton('🐺 Season 3 🐺', callback_data = "osman4"),
+                        InlineKeyboardButton('🐺 Season 3 🐺', callback_data = "osman3"),
                         InlineKeyboardButton("🐺 Season 4 🐺", callback_data = "osman4"),
                     ],
                     [
