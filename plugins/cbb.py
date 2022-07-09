@@ -194,6 +194,166 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             await query.message.delete()
         except:
             pass
+        
+        
+    elif data == "osman":
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/26",
+            caption = DESTAN,
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton('🐺 Season 1 🐺', callback_data = "osman1"),
+                        InlineKeyboardButton("🐺 Season 2 🐺", callback_data = "osman2"),
+                    ],
+                    [
+                        InlineKeyboardButton('🐺 Season 3 🐺', callback_data = "osman4"),
+                        InlineKeyboardButton("🐺 Season 4 🐺", callback_data = "osman4"),
+                    ],
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "series"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+        
+        
+    elif data == "destan":
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/50",
+            caption = DESTAN,
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton('🐺 Season 1 🐺', callback_data = "destan1"),
+                    ],
+                    [
+                        InlineKeyboardButton("🐺 Season 2 🐺", callback_data = "destan2"),
+                    ],
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "series"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "osman1":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = OSMAN1.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "osman"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "osman2":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = OSMAN2.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "osman"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "osman3":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = OSMAN3.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "osman"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "osman4":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = OSMAN4.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "osman"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "destan1":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = DESTAN1.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "destan"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "destan2":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = DESTAN2.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "destan"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
 
     elif data == "yunusemre1":
         await query.message.reply_video(
