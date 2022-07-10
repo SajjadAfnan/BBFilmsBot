@@ -3,7 +3,7 @@
 from pyrogram import __version__
 from bot import Bot
 from config import OWNER_ID, START_MSG, BARBAROSLAR2, ALPARSLAN2, START_MSG, OSMAN4, DESTAN2
-from translation import INSTAGRAM, SHARE_LINK, UYANIS, ERTUGRUL720, ERTUGRUL360, KUTUL_AMARE, PAYITAHT, PAYITAHT1, PAYITAHT2, PAYITAHT3, PAYITAHT4, PAYITAHT5, PAYITAHT, ALPARSLAN, BARBAROSLAR, BARBAROSLAR1, ALPARSLAN1, YUNUS_EMRE, YUNUS_EMRE1, YUNUS_EMRE2, OSMAN, OSMAN1, OSMAN2, OSMAN3, DESTAN, DESTAN1
+from translation import INSTAGRAM, SHARE_LINK, UYANIS, ERTUGRUL720, ERTUGRUL360, KUTUL_AMARE, PAYITAHT, PAYITAHT1, PAYITAHT2, PAYITAHT3, PAYITAHT4, PAYITAHT5, PAYITAHT, ALPARSLAN, BARBAROSLAR, BARBAROSLAR1, ALPARSLAN1, YUNUS_EMRE, EN_YUNUS_EMRE, UR_YUNUS_EMRE, EN_YUNUS_EMRE1, EN_YUNUS_EMRE2, UR_YUNUS_EMRE1, UR_YUNUS_EMRE2, OSMAN, OSMAN1, OSMAN2, OSMAN3, DESTAN, DESTAN1
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 
 @Bot.on_callback_query()
@@ -107,13 +107,61 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton('🕌 Season 1 🕌', callback_data = "yunusemre1"),
+                        InlineKeyboardButton("English Subtitle", callback_data = "enyunusemre"),
                     ],
                     [
-                        InlineKeyboardButton("🕌 Season 2 🕌", callback_data = "yunusemre2"),
+                        InlineKeyboardButton("Hindi/Urdu Dubbed", callback_data = "uryunusemre"),
                     ],
                     [
                         InlineKeyboardButton("⏪ Back", callback_data = "series"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "enyunusemre":
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/48",
+            caption = EN_YUNUS_EMRE,
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton('🕌 Season 1 🕌', callback_data = "enyunusemre1"),
+                    ],
+                    [
+                        InlineKeyboardButton("🕌 Season 2 🕌", callback_data = "enyunusemre2"),
+                    ],
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "yunusemre"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "uryunusemre":
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/48",
+            caption = UR_YUNUS_EMRE,
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton('🕌 Season 1 🕌', callback_data = "uryunusemre1"),
+                    ],
+                    [
+                        InlineKeyboardButton("🕌 Season 2 🕌", callback_data = "uryunusemre2"),
+                    ],
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "yunusemre"),
                         InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
                     ]
                 ]
@@ -355,14 +403,14 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         except:
             pass
 
-    elif data == "yunusemre1":
+    elif data == "enyunusemre1":
         await query.message.reply_video(
             video = demovideo,
-            caption = YUNUS_EMRE1.format(botusername = client.username),
+            caption = EN_YUNUS_EMRE1.format(botusername = client.username),
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("⏪ Back", callback_data = "yunusemre"),
+                        InlineKeyboardButton("⏪ Back", callback_data = "enyunusemre"),
                         InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
                     ]
                 ]
@@ -373,14 +421,50 @@ async def cb_handler(client: Bot, query: CallbackQuery):
         except:
             pass
 
-    elif data == "yunusemre2":
+    elif data == "enyunusemre2":
         await query.message.reply_video(
             video = demovideo,
-            caption = YUNUS_EMRE2.format(botusername = client.username),
+            caption = EN_YUNUS_EMRE2.format(botusername = client.username),
             reply_markup = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("⏪ Back", callback_data = "yunusemre"),
+                        InlineKeyboardButton("⏪ Back", callback_data = "enyunusemre"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "uryunusemre1":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = UR_YUNUS_EMRE1.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "uryunusemre"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "uryunusemre2":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = UR_YUNUS_EMRE2.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "uryunusemre"),
                         InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
                     ]
                 ]
