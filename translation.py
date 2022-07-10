@@ -193,6 +193,8 @@ Select the Button Below 👇</b>"""
 
 EN_YUNUS_EMRE = """<b>[BB] Yunus Emre
 
+English Subtitle ✅
+
 Select the Button Below 👇</b>"""
 
 
