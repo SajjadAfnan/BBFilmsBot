@@ -155,7 +155,34 @@ English subtitle ✅
 Season: 1
 Total Episodes: 27
 
-Coming soon...</b>"""
+<a href='https://t.me/{botusername}?start=Z2V0LTY1OTUyOTI0MDcxNTU5NTYtNjYwMDI5ODcwMTY4MDg5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY2MDIzMDEyMTk0OTA4NzItNjYwNzMwNzUxNDAxNTgxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2MDkzMTAwMzE4MjU3ODgtNjYxNDMxNjMyNjM1MDcyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY2MTYzMTg4NDQxNjA3MDQtNjYyMTMyNTEzODY4NTY0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2MjMzMjc2NTY0OTU2MjAtNjYyNjMzMTQzMzIxMDU4NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY2MjgzMzM5NTEwMjA1NjAtNjYzMTMzNzcyNzczNTUyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2MzMzNDAyNDU1NDU1MDAtNjYzNjM0NDAyMjI2MDQ2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY2MzgzNDY1NDAwNzA0NDAtNjY0MTM1MDMxNjc4NTQwNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2NDMzNTI4MzQ1OTUzODAtNjY0NjM1NjYxMTMxMDM0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY2NDgzNTkxMjkxMjAzMjAtNjY1MTM2MjkwNTgzNTI4NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2NTMzNjU0MjM2NDUyNjAtNjY1NjM2OTIwMDM2MDIyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY2NTgzNzE3MTgxNzAyMDAtNjY2MTM3NTQ5NDg4NTE2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2NjMzNzgwMTI2OTUxNDAtNjY2NjM4MTc4OTQxMDEwNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY2NjgzODQzMDcyMjAwODAtNjY3MTM4ODA4MzkzNTA0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2NzMzOTA2MDE3NDUwMjAtNjY3NjM5NDM3ODQ1OTk4NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY2NzgzOTY4OTYyNjk5NjAtNjY4MTQwMDY3Mjk4NDkyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2ODM0MDMxOTA3OTQ5MDAtNjY4NjQwNjk2NzUwOTg2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY2ODg0MDk0ODUzMTk4NDAtNjY5MTQxMzI2MjAzNDgwNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY2OTM0MTU3Nzk4NDQ3ODAtNjY5NjQxOTU1NjU1OTc0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY2OTg0MjIwNzQzNjk3MjAtNjcwMTQyNTg1MTA4NDY4NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟎</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY3MDM0MjgzNjg4OTQ2NjAtNjcwNjQzMjE0NTYwOTYyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY3MDg0MzQ2NjM0MTk2MDAtNjcxMTQzODQ0MDEzNDU2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY3MTM0NDA5NTc5NDQ1NDAtNjcxNjQ0NDczNDY1OTUwNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY3MTg0NDcyNTI0Njk0ODAtNjcyMTQ1MTAyOTE4NDQ0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY3MjM0NTM1NDY5OTQ0MjAtNjcyNjQ1NzMyMzcwOTM4NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY3Mjg0NTk4NDE1MTkzNjAtNjczMTQ2MzYxODIzNDMyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTY3MzM0NjYxMzYwNDQzMDAtNjczNjQ2OTkxMjc1OTI2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟕 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑   
+                              👇👇👇👇👇"""
 
 YUNUS_EMRE = """<b>[BB] Yunus Emre
 
