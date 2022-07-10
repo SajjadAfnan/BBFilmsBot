@@ -188,13 +188,36 @@ Total Episodes: 27
 
 YUNUS_EMRE = """<b>[BB] Yunus Emre
 
-English Subtitle
-All Qualities Available ✅
-
-Select the Season Below 👇</b>"""
+Select the Button Below 👇</b>"""
 
 
-YUNUS_EMRE1 = """<b>[BB] Yunus Emre
+EN_YUNUS_EMRE = """<b>[BB] Yunus Emre
+
+Select the Button Below 👇</b>"""
+
+
+UR_YUNUS_EMRE = """<b>[BB] Yunus Emre
+
+Select the Button Below 👇</b>"""
+
+
+UR_YUNUS_EMRE1 = """<b>[BB] Yunus Emre
+
+Season: 1
+Episodes: 22
+
+Coming soon...</b>"""
+
+
+UR_YUNUS_EMRE2 = """<b>[BB] Yunus Emre
+
+Season: 2
+Episodes: 39
+
+Coming soon...</b>"""
+
+
+EN_YUNUS_EMRE1 = """<b>[BB] Yunus Emre
 
 Season: 1
 Episodes: 22
@@ -230,7 +253,7 @@ All Qualities Available ✅
                               👇👇👇👇👇"""
 
 
-YUNUS_EMRE2 = """<b>[BB] Yunus Emre
+EN_YUNUS_EMRE2 = """<b>[BB] Yunus Emre
 
 Season 2
 Episodes: 23
