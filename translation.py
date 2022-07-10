@@ -198,9 +198,11 @@ English Subtitle ✅
 Select the Button Below 👇</b>"""
 
 
-UR_YUNUS_EMRE = """<b>[BB] Yunus Emre
+UR_YUNUS_EMRE = """<b>[BB] راہےعشق (Yunus Emre)
 
-Select the Button Below 👇</b>"""
+ہندی/اردو ڈب 
+
+ 👇ذیل میں سیزن منتخب کریں۔</b>"""
 
 
 UR_YUNUS_EMRE1 = """<b>[BB] Yunus Emre
