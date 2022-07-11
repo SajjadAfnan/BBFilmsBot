@@ -198,11 +198,11 @@ English Subtitle ✅
 Select the Button Below 👇</b>"""
 
 
-UR_YUNUS_EMRE = """<b>[BB] راہےعشق (Yunus Emre)
+UR_YUNUS_EMRE = """<b>[[BB] راہےعشق (Yunus Emre)
 
 ہندی/اردو ڈب 
 
- 👇ذیل میں سیزن منتخب کریں۔</b>"""
+ 👇 یہاں سے سیزن منتخب کریں۔</b>"""
 
 
 UR_YUNUS_EMRE1 = """<b>[BB] Yunus Emre
@@ -210,7 +210,32 @@ UR_YUNUS_EMRE1 = """<b>[BB] Yunus Emre
 Season: 1
 Episodes: 22
 
-Coming soon...</b>"""
+<a href='https://t.me/{botusername}?start=Z2V0LTY3NTA0ODc1Mzc0MjkwOTYtNjc1MzQ5MTMxNDE0NDA2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY3NTU0OTM4MzE5NTQwMzYtNjc1ODQ5NzYwODY2OTAwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY3NjA1MDAxMjY0Nzg5NzYtNjc2MzUwMzkwMzE5Mzk0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY3NjU1MDY0MjEwMDM5MTYtNjc2ODUxMDE5NzcxODg4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY3NzA1MTI3MTU1Mjg4NTYtNjc3MzUxNjQ5MjI0MzgyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY3NzU1MTkwMTAwNTM3OTYtNjc3ODUyMjc4Njc2ODc2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY3ODA1MjUzMDQ1Nzg3MzYtNjc4MzUyOTA4MTI5MzcwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY3ODU1MzE1OTkxMDM2NzYtNjc4ODUzNTM3NTgxODY0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY3OTA1Mzc4OTM2Mjg2MTYtNjc5MzU0MTY3MDM0MzU4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY3OTU1NDQxODgxNTM1NTYtNjc5ODU0Nzk2NDg2ODUyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎 </a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4MDA1NTA0ODI2Nzg0OTYtNjgwMzU1NDI1OTM5MzQ2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY4MDU1NTY3NzcyMDM0MzYtNjgwODU2MDU1MzkxODQwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4MTA1NjMwNzE3MjgzNzYtNjgxMzU2Njg0ODQ0MzM0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY4MTU1NjkzNjYyNTMzMTYtNjgxODU3MzE0Mjk2ODI4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4MjA1NzU2NjA3NzgyNTYtNjgyMzU3OTQzNzQ5MzIyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY4MjU1ODE5NTUzMDMxOTYtNjgyODU4NTczMjAxODE2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4MzA1ODgyNDk4MjgxMzYtNjgzMzU5MjAyNjU0MzEwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY4MzU1OTQ1NDQzNTMwNzYtNjgzODU5ODMyMTA2ODA0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4NDA2MDA4Mzg4NzgwMTYtNjg0MzYwNDYxNTU5Mjk4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY4NDU2MDcxMzM0MDI5NTYtNjg0ODYxMDkxMDExNzkyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟎</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4NTA2MTM0Mjc5Mjc4OTYtNjg1NDYxODQ2MzU0Nzg0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTY4NTY2MjA5ODEzNTc4MjQtNjg1OTYyNDc1ODA3Mjc4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟐 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+
+🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑   
+                              👇👇👇👇👇"""
 
 
 UR_YUNUS_EMRE2 = """<b>[BB] Yunus Emre
