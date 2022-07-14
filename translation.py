@@ -243,7 +243,48 @@ UR_YUNUS_EMRE2 = """<b>[BB] Yunus Emre
 Season: 2
 Episodes: 39
 
-Coming soon...</b>"""
+<a href='https://t.me/{botusername}?start=Z2V0LTY4NzA2Mzg2MDYwMjc2NTYtNjg3MzY0MjM4Mjc0MjYyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY4NzU2NDQ5MDA1NTI1OTYtNjg3OTY0OTkzNjE3MjU0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4ODE2NTI0NTM5ODI1MjQtNjg4NDY1NjIzMDY5NzQ4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY4ODY2NTg3NDg1MDc0NjQtNjg4OTY2MjUyNTIyMjQyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY4OTE2NjUwNDMwMzI0MDQtNjg5NDY2ODgxOTc0NzM2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY4OTY2NzEzMzc1NTczNDQtNjg5OTY3NTExNDI3MjMwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5MDE2Nzc2MzIwODIyODQtNjkwNDY4MTQwODc5NzI0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY5MDY2ODM5MjY2MDcyMjQtNjkwOTY4NzcwMzMyMjE4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5MTE2OTAyMjExMzIxNjQtNjkxNDY5Mzk5Nzg0NzEyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗</a>        <a href='https://t.me/{botusername}?start=Z2V0LTY5MTY2OTY1MTU2NTcxMDQtNjkxOTcwMDI5MjM3MjA2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎 </a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5MjE3MDI4MTAxODIwNDQtNjkyNDcwNjU4Njg5NzAwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5MjY3MDkxMDQ3MDY5ODQtNjkyOTcxMjg4MTQyMTk0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5MzE3MTUzOTkyMzE5MjQtNjkzNDcxOTE3NTk0Njg4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5MzY3MjE2OTM3NTY4NjQtNjkzOTcyNTQ3MDQ3MTgyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5NDE3Mjc5ODgyODE4MDQtNjk0NDczMTc2NDk5Njc2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5NDY3MzQyODI4MDY3NDQtNjk0OTczODA1OTUyMTcwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5NTE3NDA1NzczMzE2ODQtNjk1NDc0NDM1NDA0NjY0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5NTY3NDY4NzE4NTY2MjQtNjk1OTc1MDY0ODU3MTU4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5NjE3NTMxNjYzODE1NjQtNjk2NDc1Njk0MzA5NjUyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5NjY3NTk0NjA5MDY1MDQtNjk2OTc2MzIzNzYyMTQ2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟎</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5NzE3NjU3NTU0MzE0NDQtNjk3NDc2OTUzMjE0NjQwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5NzY3NzIwNDk5NTYzODQtNjk3OTc3NTgyNjY3MTM0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5ODE3NzgzNDQ0ODEzMjQtNjk4NDc4MjEyMTE5NjI4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5ODY3ODQ2MzkwMDYyNjQtNjk4OTc4ODQxNTcyMTIyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTY5OTE3OTA5MzM1MzEyMDQtNjk5NDc5NDcxMDI0NjE2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY5OTY3OTcyMjgwNTYxNDQtNjk5OTgwMTAwNDc3MTEwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTcwMDE4MDM1MjI1ODEwODQtNzAwNDgwNzI5OTI5NjA0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTcwMDY4MDk4MTcxMDYwMjQtNzAwOTgxMzU5MzgyMDk4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTcwMTE4MTYxMTE2MzA5NjQtNzAxNDgxOTg4ODM0NTkyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟗</a>      <a href='https://t.me/{botusername}?start=Z2V0LTcwMTY4MjI0MDYxNTU5MDQtNzAxOTgyNjE4Mjg3MDg2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTcwMjE4Mjg3MDA2ODA4NDQtNzAyNDgzMjQ3NzM5NTgwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏</a>      <a href='https://t.me/{botusername}?start=Z2V0LTcwMjg4Mzc1MTMwMTU3NjAtNzAzMjg0MjU0ODYzNTcxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟐</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTcwMzQ4NDUwNjY0NDU2ODgtNzAzNzg0ODg0MzE2MDY1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟑</a>      <a href='https://t.me/{botusername}?start=Z2V0LTcwMzk4NTEzNjA5NzA2MjgtNzA0Mjg1NTEzNzY4NTU5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟒</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTcwNDQ4NTc2NTU0OTU1NjgtNzA0Nzg2MTQzMjIxMDUzMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTcwNDk4NjM5NTAwMjA1MDgtNzA1Mjg2NzcyNjczNTQ3Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟔</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTcwNTQ4NzAyNDQ1NDU0NDgtNzA1Nzg3NDAyMTI2MDQxMg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟕</a>      <a href='https://t.me/{botusername}?start=Z2V0LTcwNTk4NzY1MzkwNzAzODgtNzA2Mjg4MDMxNTc4NTM1Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟖</a> 
+ 
+<a href='https://t.me/{botusername}?start=Z2V0LTcwNjQ4ODI4MzM1OTUzMjgtNzA2Nzg4NjYxMDMxMDI5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟗 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a>
+
+🛑 اوپر کے لنک پر کلک کرنے کے بعد نیچے START بٹن دبائیں 🛑</b>
+                              👇👇👇👇👇"""
 
 
 EN_YUNUS_EMRE1 = """<b>[BB] Yunus Emre
