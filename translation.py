@@ -397,15 +397,53 @@ ERTUGRUL360 = """<b>[BB] Diriliş Ertuğrul
 With English subtitle ✅
 In 360p SD Quality ⭐️</b>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTY4MTg1NzMxNDI5NjgyOC03MDc4OTAwNDU4MjY1MTY'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟏 ⚔</a>
+𝗦𝗲𝗮𝘀𝗼𝗻 - 1
 
-<a href='https://t.me/{botusername}?start=Z2V0LTcwODg5MTMwNDczMTUwNC03NDM5MzUzNjY0MDYwODQ'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟐 ⚔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTY4MTg1NzMxNDI5NjgyOC02OTA4Njg2NDQ0NDE3MjA=='>📺 𝗕ö𝗹ü𝗺 𝟏 - 𝟏𝟎</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTc0NDkzNjYyNTMxMTA3Mi03NzQ5NzQzOTI0NjA3MTI'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟑 ⚔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTY5MTg2OTkwMzM0NjcwOC03MDA4ODEyMzM0OTE2MDA=='>📺 𝗕ö𝗹ü𝗺 𝟏𝟏 - 𝟐𝟎</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTc3NTk3NTY1MTM2NTcwMC04MDYwMTM0MTg1MTUzNDA'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟒 ⚔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTcwMTg4MjQ5MjM5NjU4OC03MDY4ODg3ODY5MjE1Mjg=='>📺 𝗕ö𝗹ü𝗺 𝟐𝟏 - 𝟐𝟔</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTgwNzAxNDY3NzQyMDMyOC04MzYwNTExODU2NjQ5ODA'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟓 ⚔</a>
+𝗦𝗲𝗮𝘀𝗼𝗻 - 𝟐
+
+<a href='https://t.me/{botusername}?start=Z2V0LTcwODg5MTMwNDczMTUwNC03MTE4OTUwODE0NDY0Njg=='>📺 𝗕ö𝗹ü𝗺 𝟐𝟕 - 𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTcxMjg5NjM0MDM1MTQ1Ni03MjE5MDc2NzA0OTYzNDg=='>📺 𝗕ö𝗹ü𝗺 𝟑𝟏 - 𝟒𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTcyMjkwODkyOTQwMTMzNi03MzE5MjAyNTk1NDYyMjg=='>📺 𝗕ö𝗹ü𝗺 𝟒𝟏 - 𝟓𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTczMjkyMTUxODQ1MTIxNi03MzY5MjY1NTQwNzExNjg=='>📺 𝗕ö𝗹ü𝗺 𝟓𝟏 - 𝟓𝟓</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTczNzkyNzgxMjk3NjE1Ni03NDI5MzQxMDc1MDEwOTY=='>📺 𝗕ö𝗹ü𝗺 𝟓𝟔 - 𝟔𝟏</a>
+
+𝗦𝗲𝗮𝘀𝗼𝗻 - 𝟑
+
+<a href='https://t.me/{botusername}?start=Z2V0LTc0NDkzNjYyNTMxMTA3Mi03NTI5NDY2OTY1NTA5NzY=='>📺 𝗕ö𝗹ü𝗺 𝟔𝟐 - 𝟕𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTc1Mzk0Nzk1NTQ1NTk2NC03NjI5NTkyODU2MDA4NTY=='>📺 𝗕ö𝗹ü𝗺 𝟕𝟏 - 𝟖𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTc2Mzk2MDU0NDUwNTg0NC03Njc5NjU1ODAxMjU3OTY=='>📺 𝗕ö𝗹ü𝗺 𝟖𝟏 - 𝟖𝟓</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTc2ODk2NjgzOTAzMDc4NC03NzM5NzMxMzM1NTU3MjQ=='>📺 𝗕ö𝗹ü𝗺 𝟖𝟔 - 𝟗𝟏</a>
+
+𝗦𝗲𝗮𝘀𝗼𝗻 - 𝟒
+
+<a href='https://t.me/{botusername}?start=Z2V0LTc3NTk3NTY1MTM2NTcwMC03ODM5ODU3MjI2MDU2MDQ=='>📺 𝗕ö𝗹ü𝗺 𝟗𝟐 - 𝟏𝟎𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTc4NDk4Njk4MTUxMDU5Mi03OTM5OTgzMTE2NTU0ODQ=='>📺 𝗕ö𝗹ü𝗺 𝟏𝟎𝟏 - 𝟏𝟏𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTc5NDk5OTU3MDU2MDQ3Mi03OTkwMDQ2MDYxODA0MjQ=='>📺 𝗕ö𝗹ü𝗺 𝟏𝟏𝟏 - 𝟏𝟏𝟓</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTgwMDAwNTg2NTA4NTQxMi04MDUwMTIxNTk2MTAzNTI=='>📺 𝗕ö𝗹ü𝗺 𝟏𝟏𝟔  - 𝟏𝟐𝟏</a>
+
+𝗦𝗲𝗮𝘀𝗼𝗻 - 𝟓
+
+<a href='https://t.me/{botusername}?start=Z2V0LTgwNzAxNDY3NzQyMDMyOC04MTUwMjQ3NDg2NjAyMzI=='>📺 𝗕ö𝗹ü𝗺 𝟏𝟐𝟐  - 𝟏𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTgxNjAyNjAwNzU2NTIyMC04MjUwMzczMzc3MTAxMTI=='>📺 𝗕ö𝗹ü𝗺 𝟏𝟑𝟏  - 𝟏𝟒𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTgyNjAzODU5NjYxNTEwMC04MzUwNDk5MjY3NTk5OTI=='>📺 𝗕ö𝗹ü𝗺 𝟏𝟒𝟏 - 𝟏𝟓𝟎</a>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
