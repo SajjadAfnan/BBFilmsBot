@@ -380,15 +380,115 @@ ERTUGRUL720 = """<b>[BB] Diriliş Ertuğrul
 With English subtitle ✅
 In 720p HD Quality ⭐️</b>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTM2OTk2NTE2NTM5MzA2NjAtMzgzNTgyMjg2NTAwOTAyOA'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟏 ⚔</a>
+Season 1
 
-<a href='https://t.me/{botusername}?start=Z2V0LTM4Mzc4MjUzODI4MTkwMDQtMzk1NTk3MzkzMzYwNzU4OA'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟐 ⚔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTM4Mzc4MjUzODI4MTkwMDQtMzg0NjgzNjcxMjk2Mzg5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏 - 𝟏𝟎</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTM5NTY5NzUxOTI1MTI1NzYtNDA2MjEwNzM3NzUzNjMxNg'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟑 ⚔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTM4NDc4Mzc5NzE4Njg4ODQtMzg1Njg0OTMwMjAxMzc3Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏 - 𝟐𝟎</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTQwODMxMzM4MTQ1NDEwNjQtNDE3NDI0ODM3NDg5NDk3Mg'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟒 ⚔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTM4NTc4NTA1NjA5MTg3NjQtMzg2Njg2MTg5MTA2MzY1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏 - 𝟑𝟎</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTQxOTAyNjg1MTczNzQ3ODAtNDI5MTM5NTY2Njc3ODU2OA'>⚔ 𝗦𝗲𝗮𝘀𝗼𝗻 𝟓 ⚔</a>
+<a href='https://t.me/{botusername}?start=Z2V0LTM4Njc4NjMxNDk5Njg2NDQtMzg3Njg3NDQ4MDExMzUzNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏 - 𝟒𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4Nzc4NzU3MzkwMTg1MjQtMzg4Njg4NzA2OTE2MzQxNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒𝟏 - 𝟓𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4ODc4ODgzMjgwNjg0MDQtMzg5Njg5OTY1ODIxMzI5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓𝟏 - 𝟔𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4OTc5MDA5MTcxMTgyODQtMzkwNjkxMjI0NzI2MzE3Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔𝟏 - 𝟕𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5MDc5MTM1MDYxNjgxNjQtMzkxNjkyNDgzNjMxMzA1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕𝟏 - 𝟖𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5MjM5MzM2NDg2NDc5NzItMzkzMjk0NDk3ODc5Mjg2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖𝟏 - 𝟗𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5MzM5NDYyMzc2OTc4NTItMzk0Mjk1NzU2Nzg0Mjc0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗𝟏 - 𝟏𝟎𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5NDM5NTg4MjY3NDc3MzItMzk0NTk2MTM0NDU1NzcwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎𝟏 - 𝟏𝟎𝟑</a>
+
+Season 2
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4Mzc4MjUzODI4MTkwMDQtMzg0NjgzNjcxMjk2Mzg5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏 - 𝟏𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4NDc4Mzc5NzE4Njg4ODQtMzg1Njg0OTMwMjAxMzc3Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏 - 𝟐𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4NTc4NTA1NjA5MTg3NjQtMzg2Njg2MTg5MTA2MzY1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏 - 𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4Njc4NjMxNDk5Njg2NDQtMzg3Njg3NDQ4MDExMzUzNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏 - 𝟒𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4Nzc4NzU3MzkwMTg1MjQtMzg4Njg4NzA2OTE2MzQxNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒𝟏 - 𝟓𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4ODc4ODgzMjgwNjg0MDQtMzg5Njg5OTY1ODIxMzI5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓𝟏 - 𝟔𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM4OTc5MDA5MTcxMTgyODQtMzkwNjkxMjI0NzI2MzE3Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔𝟏 - 𝟕𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5MDc5MTM1MDYxNjgxNjQtMzkxNjkyNDgzNjMxMzA1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕𝟏 - 𝟖𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5MjM5MzM2NDg2NDc5NzItMzkzMjk0NDk3ODc5Mjg2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖𝟏 - 𝟗𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5MzM5NDYyMzc2OTc4NTItMzk0Mjk1NzU2Nzg0Mjc0NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟗𝟏 - 𝟏𝟎𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5NDM5NTg4MjY3NDc3MzItMzk0NTk2MTM0NDU1NzcwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟎𝟏 - 𝟏𝟎𝟑</a>
+
+Season 3
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5NTY5NzUxOTI1MTI1NzYtMzk2NTk4NjUyMjY1NzQ2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏 - 𝟏𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5NjY5ODc3ODE1NjI0NTYtMzk3NTk5OTExMTcwNzM0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏 - 𝟐𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5NzcwMDAzNzA2MTIzMzYtMzk5MDAxNjczNjM3NzE4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏 - 𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTM5OTEwMTc5OTUyODIxNjgtNDAwMDAyOTMyNTQyNzA2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏 - 𝟒𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwMDEwMzA1ODQzMzIwNDgtNDAyMDA1NDUwMzUyNjgyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒𝟏 - 𝟓𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwMjEwNTU3NjI0MzE4MDgtNDAzMDA2NzA5MjU3NjcwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓𝟏 - 𝟔𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwMzEwNjgzNTE0ODE2ODgtNDA0MDA3OTY4MTYyNjU4MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔𝟏 - 𝟕𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwNDEwODA5NDA1MzE1NjgtNDA1MDA5MjI3MDY3NjQ2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕𝟏 - 𝟖𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwNTEwOTM1Mjk1ODE0NDgtNDA1NTA5ODU2NTIwMTQwMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖𝟏 - 𝟖𝟓</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwNTYwOTk4MjQxMDYzODgtNDA2MTEwNjExODYzMTMyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖𝟔 - 𝟗𝟏</a>
+
+Season 4
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwODMxMzM4MTQ1NDEwNjQtNDA5MjE0NTE0NDY4NTk1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏 - 𝟏𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQwOTMxNDY0MDM1OTA5NDQtNDEwMjE1NzczMzczNTgzNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏 - 𝟐𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxMDMxNTg5OTI2NDA4MjQtNDExMjE3MDMyMjc4NTcxNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏 - 𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxMTMxNzE1ODE2OTA3MDQtNDEyMjE4MjkxMTgzNTU5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏 - 𝟒𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxMjMxODQxNzA3NDA1ODQtNDEzMjE5NTUwMDg4NTQ3Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒𝟏 - 𝟓𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxMzMxOTY3NTk3OTA0NjQtNDE0MjIwODA4OTkzNTM1Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓𝟏 - 𝟔𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxNDMyMDkzNDg4NDAzNDQtNDE1MjIyMDY3ODk4NTIzNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔𝟏 - 𝟕𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxNTMyMjE5Mzc4OTAyMjQtNDE2MjIzMzI2ODAzNTExNg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕𝟏 - 𝟖𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxNjMyMzQ1MjY5NDAxMDQtNDE3MjI0NTg1NzA4NDk5Ng'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖𝟏 - 𝟗𝟎</a>
+
+Season 5
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQxOTEyNjk3NzYyNzk3NjgtNDIwMDI4MTEwNjQyNDY2MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏 - 𝟏𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyMDEyODIzNjUzMjk2NDgtNDIxMDI5MzY5NTQ3NDU0MA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟏𝟏 - 𝟐𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyMTEyOTQ5NTQzNzk1MjgtNDIyMDMwNjI4NDUyNDQyMA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟏 - 𝟑𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyMjEzMDc1NDM0Mjk0MDgtNDI0MTMzMjcyMTUyOTE2OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟑𝟏 - 𝟒𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyNDIzMzM5ODA0MzQxNTYtNDI1MTM0NTMxMDU3OTA0OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟒𝟏 - 𝟓𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyNTIzNDY1Njk0ODQwMzYtNDI2MTM1Nzg5OTYyODkyOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟓𝟏 - 𝟔𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyNjIzNTkxNTg1MzM5MTYtNDI3MTM3MDQ4ODY3ODgwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟔𝟏 - 𝟕𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyNzIzNzE3NDc1ODM3OTYtNDI4MTM4MzA3NzcyODY4OA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟕𝟏 - 𝟖𝟎</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTQyODIzODQzMzY2MzM2NzYtNDI4OTM5MzE0ODk2ODU5Mg'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟖𝟏 - 𝟖𝟖</a>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
