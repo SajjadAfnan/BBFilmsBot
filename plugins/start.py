@@ -72,6 +72,7 @@ async def start_command(client: Client, message: Message):
                 caption = CUSTOM_CAPTION.format(previouscaption = "" if not msg.caption else msg.caption.html, filename = msg.document.file_name)
             else:
                 caption = "" if not msg.caption else msg.caption.html
+                caption = caption + "<b>\n\n⭐ Share And Support Us ⭐\n<a href='{instagram}'>⚡ Follow Us On Instagram For All Links ⚡</a></b>"
 
             if DISABLE_CHANNEL_BUTTON:
                 reply_markup = InlineKeyboardMarkup(
