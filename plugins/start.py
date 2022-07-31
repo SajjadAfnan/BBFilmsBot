@@ -18,6 +18,8 @@ WAIT_MSG = """<b>Processing ...</b>"""
 
 REPLY_ERROR = """<code>Use this command as a replay to any telegram message with out any spaces.</code>"""
 
+instagram = INSTAGRAM
+
 #=====================================================================================##
 
 
