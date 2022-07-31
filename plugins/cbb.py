@@ -584,16 +584,117 @@ async def cb_handler(client: Bot, query: CallbackQuery):
             pass
 
     elif data == "ertugrul720p":
-        await query.message.reply_video(
-            video = demovideo,
+        await query.message.reply_photo(
+            photo = "https://t.me/How_To_Use_Bot/15",
             caption = ERTUGRUL720.format(botusername = client.username),
             reply_markup = InlineKeyboardMarkup(
                [
                    [
-                       InlineKeyboardButton("⏪ Back", callback_data = "ertugrul"),
-                       InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                        InlineKeyboardButton("💡 Season 𝟏 💡", callback_data = "ertugrul1_720"),
+                        InlineKeyboardButton("💡 Season 𝟐 💡", callback_data = "ertugrul2_720")
+                    ],
+                    [
+                        InlineKeyboardButton("💡 Season 𝟑 💡", callback_data = "ertugrul3_720"),
+                        InlineKeyboardButton("💡 Season 𝟒 💡", callback_data = "ertugrul4_720")
+                    ],
+                    [
+                        InlineKeyboardButton("💡 Season 𝟓 💡", callback_data = "ertugrul5_720")
+                    ],
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "ertugrul"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
                     ]
                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "ertugrul1_720":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = EN_ERTUGRUL1_720.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "ertugrul720p"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "ertugrul2_720":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = EN_ERTUGRUL2_720.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "ertugrul720p"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "ertugrul3_720":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = EN_ERTUGRUL3_720.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "ertugrul720p"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "ertugrul4_720":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = EN_ERTUGRUL4_720.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "ertugrul720p"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
+            )
+        )
+        try:
+            await query.message.delete()
+        except:
+            pass
+
+    elif data == "ertugrul5_720":
+        await query.message.reply_video(
+            video = demovideo,
+            caption = EN_ERTUGRUL5_720.format(botusername = client.username),
+            reply_markup = InlineKeyboardMarkup(
+                [
+                    [
+                        InlineKeyboardButton("⏪ Back", callback_data = "ertugrul720p"),
+                        InlineKeyboardButton('Follow Instagram 🤍', url= INSTAGRAM)
+                    ]
+                ]
             )
         )
         try:
