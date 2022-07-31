@@ -376,7 +376,7 @@ All Qualities Available ✅
 Select the Season Below 👇</b>"""
 
 
-ERTUGRUL720 = """<b>[BB] Diriliş Ertuğrul
+ERTUGRUL720KHB = """<b>[BB] Diriliş Ertuğrul
 With English subtitle ✅
 In 720p HD Quality ⭐️</b>
 
@@ -492,6 +492,11 @@ Season 5
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑
                               👇👇👇👇👇"""
+
+ERTUGRUL720 = """<b>[BB] Diriliş Ertuğrul
+With English subtitle ✅
+In 360p SD Quality ⭐️</b>"""
+
 
 ERTUGRUL360 = """<b>[BB] Diriliş Ertuğrul
 With English subtitle ✅
