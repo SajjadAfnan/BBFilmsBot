@@ -495,7 +495,7 @@ Season 5
 
 ERTUGRUL720 = """<b>[BB] Diriliş Ertuğrul
 With English subtitle ✅
-In 360p SD Quality ⭐️</b>"""
+In 720P HD Quality ⭐️</b>"""
 
 
 ERTUGRUL360 = """<b>[BB] Diriliş Ertuğrul
