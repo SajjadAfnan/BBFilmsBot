@@ -3,31 +3,31 @@ import logging
 from logging.handlers import RotatingFileHandler
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5219111774:AAEFKwfMH8LGAlSdSglp_JKKrQhWhyo0nGk")
 
 #Your API ID from my.telegram.org
-APP_ID = int(os.environ.get("APP_ID", ""))
+APP_ID = int(os.environ.get("APP_ID", "7165240"))
 
 #Your API Hash from my.telegram.org
-API_HASH = os.environ.get("API_HASH", "")
+API_HASH = os.environ.get("API_HASH", "c1d8c5fe9394878da8112bbf7bacf59b")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001258904988"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "1147663173"))
 
 #Database 
-DB_URI = os.environ.get("DATABASE_URL", "")
+DB_URI = os.environ.get("DATABASE_URL", "postgres://hjkrtakhgzjufq:9139fafc841d70280bcedd9791e9694c438776f4dc22a3d5cc664d3ab81c918a@ec2-3-225-192-175.compute-1.amazonaws.com:5432/d8mj2g0o17cp0f")
 
-ALPARSLAN2 = os.environ.get("ALPARSLAN2", "")
+ALPARSLAN2 = os.environ.get("ALPARSLAN2", "hi")
 
-OSMAN4 = os.environ.get("OSMAN4", "")
+OSMAN4 = os.environ.get("OSMAN4", "hi")
 
-DESTAN2 = os.environ.get("DESTAN2", "")
+DESTAN2 = os.environ.get("DESTAN2", "hi")
 
 #Database 
-BARBAROSLAR2 = os.environ.get("BARBAROSLAR2", "")
+BARBAROSLAR2 = os.environ.get("BARBAROSLAR2", "hi")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
