@@ -181,7 +181,9 @@ Total Episodes: 27
  
 <a href='https://t.me/{botusername}?start=Z2V0LTY3MjM0NTM1NDY5OTQ0MjAtNjcyNjQ1NzMyMzcwOTM4NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟓</a>      <a href='https://t.me/{botusername}?start=Z2V0LTY3Mjg0NTk4NDE1MTkzNjAtNjczMTQ2MzYxODIzNDMyNA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟔</a>
 
-<a href='https://t.me/{botusername}?start=Z2V0LTY3MzM0NjYxMzYwNDQzMDAtNjczNjQ2OTkxMjc1OTI2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟕 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
+<a href='https://t.me/{botusername}?start=Z2V0LTY3MzM0NjYxMzYwNDQzMDAtNjczNjQ2OTkxMjc1OTI2NA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟕</a>
+
+<a href='https://t.me/{botusername}?start=Z2V0LTcxOTcwNDkwMDkwNTM3NDQtNzIwMDA1Mjc4NTc2ODcwOA'>📺 𝗘𝗽𝗶𝘀𝗼𝗱𝗲 𝟐𝟖 (𝐅𝐢𝐧𝐚𝐥 𝐄𝐩𝐢𝐬𝐨𝐝𝐞)</a></b>
 
 🛑 <i>After clicking above link</i> <b>press START BUTTON</b> <i>Below</i> 🛑   
                               👇👇👇👇👇"""
