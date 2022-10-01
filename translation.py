@@ -10,6 +10,12 @@ START_LOG = """🟢 <b>{mention} ({username})
 #id{id}  [<code>{id}</code>]</b>"""
 
 
+DESTAN2 = """<b>[BB] Destan 
+This series stopped with 28th Episode
+So there won't be 2nd season</b>"""
+
+
+
 OSMAN = """<b>[BB] Kurulus Osman
 English Subtitle
 
