@@ -24,7 +24,6 @@ ALPARSLAN2 = os.environ.get("ALPARSLAN2", "")
 
 OSMAN4 = os.environ.get("OSMAN4", "")
 
-DESTAN2 = os.environ.get("DESTAN2", "")
 
 #Database 
 BARBAROSLAR2 = os.environ.get("BARBAROSLAR2", "")
